@@ -48,7 +48,7 @@ class Form(QObject):
                                 'Fehler', 
                                 'Übersetzungsdatei "translate.json" konnte nicht eingelesen werden. Entweder Sie ist nicht im Unterordner "resources" vorhanden oder sie enthält Fehler. Bitte achte besonders auf Kommas, siehe "translate_Beispiel.json".'
                                 )
-            exit()
+            sys.exit()
 
 
     
