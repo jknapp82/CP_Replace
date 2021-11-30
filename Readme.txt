@@ -19,6 +19,10 @@ getrennt sein. Hinter dem letzten Schlüssel:Wert-Paar darf kein Komma folgen.
 Die Software befindet sich im Beta Stadium. Für den Einsatz wird keine Haftung
 übernommen. Für die 
 
+Systemvoraussetzungen:
+Microsoft Visual C++ Redistributables 2015-2022 (32 Bit)
+https://aka.ms/vs/17/release/vc_redist.x86.exe
+
 Verwendete Lizenzen:
 
 PySide: PySide is licensed under the LGPL version 2.1 license, allowing both 
