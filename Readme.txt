@@ -14,12 +14,13 @@ Zeichenketten ersetzt.
 Zentrales Element ist die Datei "translate.json", die im Verzeichnis "recources" 
 abgelegt werden muss. Diese dient als "Übersetzungsdatei" Die Grundidee zu diesem 
 Tool entstand durch den Bedarf Tigrinya-Texte in "Lautschrift" umzuwandeln. 
-Daher enthält die standardmäßig enthaltene "translate.json" eine entsprechende 
-"Übersetzung" von Tigrinya-Zeichen.
+Daher enthält die standardmäßig enthaltene "translate_tigrinya.json" eine entsprechende 
+"Übersetzung" von Tigrinya-Zeichen. Um diese Datei zu verwenden, muss sie in 
+"translate.json" umbenannt werden.
 
 Als übersichtlicheres Muster für andere "übersetzungen" kann die Datei 
-"translate_Beispiel.json" dienen. Diese muss entsprechen in "translate.json" 
-umbenannt und bearbeitet werden.
+"translate_Beispiel.json" dienen. Diese muss dafür entsprechen in "translate.json"
+umbenannt (oder kopiert) und bearbeitet werden.
 
 ################################## Funktionsweise ##################################
 
